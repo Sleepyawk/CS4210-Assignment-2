@@ -3,7 +3,7 @@
 # FILENAME: knn.py
 # SPECIFICATION: This program reads a csv file to find the error rate using KNN method
 # FOR: CS 4200- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 2 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
